@@ -6,3 +6,14 @@ To train the logistic regression model using LoRA and a constant learning rate, 
 
 To generate the data in the paper, run
 `bash logreg_script.sh` and `bash resnet_script.sh`
+
+# Figures for ICML Rebuttal Period
+
+## Figure A
+![](extracted_cifar10_logreg_nolora.png)
+
+## Figure B
+![](cifar10_resnet18_nolora.png)
+
+## Figure C
+![](extracted_cifar10_logreg_long.png)
