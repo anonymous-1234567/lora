@@ -17,3 +17,9 @@ To generate the data in the paper, run
 
 ## Figure C
 ![](extracted_cifar10_logreg_long.png)
+
+## Figure D
+![](llm_small.png)
+
+## Figure E
+![](llm_big.png)
