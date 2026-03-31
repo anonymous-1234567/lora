@@ -20,6 +20,8 @@ To generate the data in the paper, run
 
 ## Figure D
 ![](llm_small.png)
+The B matrix is initialized with a Gaussian distribution, with $\sigma = 1e-3$.
 
 ## Figure E
 ![](llm_big.png)
+The B matrix is initialized with a Gaussian distribution, with $\sigma = 1/r$ and $r = 32$.
